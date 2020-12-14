@@ -1,0 +1,12 @@
+name: CovidVsRisk
+title: CovidVsRisk
+username:
+account: carelvdmerwe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3382737
+bundleId: 3985684
+url: https://carelvdmerwe.shinyapps.io/CovidVsRisk/
+when: 1607926718.42883
+asMultiple: FALSE
+asStatic: FALSE
